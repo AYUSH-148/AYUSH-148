@@ -7,13 +7,11 @@
 
 - 🌱 I’m currently learning **Data structures , Computer Networks ,Docker, kubernetes**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-liard-nine-23.vercel.app/](https://my-portfolio-liard-nine-23.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-liard-nine-23.vercel.app/]([https://my-portfolio-liard-nine-23.vercel.app](https://ayush-negi-portfolio.vercel.app/)/)
 
 - 💬 Ask me about **React ,Next , MERN**
 
 - 📫 How to reach me **ayushpro111@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bs30j5nLROaTPKmcCaxOX80r9Z-9_Vte/view?usp=sharing](https://drive.google.com/file/d/1bs30j5nLROaTPKmcCaxOX80r9Z-9_Vte/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
