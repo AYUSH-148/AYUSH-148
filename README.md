@@ -1,30 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ayush Negi</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# Ayush Negi
 
-<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/-9WKxM1sLoBq8WtBqkXj57SfSmfwifhDk_KUQ9y-To4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXNp/Z25lci5naWY.gif"> 
+Backend & AI engineer. Recent IT graduate from ABV-IIIT Gwalior.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-148&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-148" /> </p>
+Previously interned at **CoinSwitch** (India's largest crypto platform), building distributed backend services for their F&O trading exchange and security infrastructure. Before that, built real-time conversation intelligence at **Profimatix.AI**.
 
-- 🌱 I’m currently learning **Data structures , Computer Networks ,Docker, kubernetes**
+## What I work on
 
-- 👨‍💻 All of my projects are available at [https://ayush-negi-portfolio.vercel.app/]([https://ayush-negi-portfolio.vercel.app/](https://ayush-negi-portfolio.vercel.app/)/)
+- **Backend & distributed systems** — built 4+ production services handling trade movement, liquidity, and ledger entries at CoinSwitch
+- **AI agent infrastructure** — contributed to a production MCP gateway giving LLM agents secure access to internal tools (Grafana, OpenSearch, Bitbucket) via OAuth 2.1 & SAML
+- **RAG systems & LLM evaluation** — built a [self-healing RAG](https://github.com/AYUSH-148/self-healing-rag) agent that reduced hallucination rate from 5.9% → 0.0% with a deterministic eval pipeline and CI gate
+- **Voice AI** — built with Vapi, ElevenLabs (Flash v2.5, multilingual_v2), and Recall.ai
 
-- 💬 Ask me about **React ,Next , MERN**
+## Featured projects
 
-- 📫 How to reach me **ayushpro111@gmail.com**
+| Project | What it does |
+|---------|-------------|
+| [**Self-Healing RAG**](https://github.com/AYUSH-148/self-healing-rag) | LangGraph agent that self-critiques and retries its own answers. Hallucination rate 5.9% → 0.0%, with a golden-set eval pipeline in CI. Runs locally on Ollama. |
+| [**MediFlow Assistant**](https://github.com/AYUSH-148/MediFlow-Assistant) | Hybrid GraphRAG medical assistant — vector retrieval + TF-IDF + knowledge graph, merged via Reciprocal Rank Fusion. PII redaction, semantic caching, Langsmith observability. |
+| [**Threads**](https://github.com/AYUSH-148/threads) | Full-stack social platform with a write-time notification pipeline: transactional outbox → Redis Streams → SSE. Idempotent delivery, Redis Streams chosen over Kafka based on actual retention needs. |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-negi-300209257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-negi-300209257" height="30" width="40" /></a>
-<a href="https://instagram.com/ayyush_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayyush_007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayyush_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayyush_007" height="30" width="40" /></a>
-</p>
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Languages:** Python, Go, TypeScript/JavaScript, C++, SQL
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-148&show_icons=true&locale=en&layout=compact" alt="ayush-148" /></p>
+**AI/LLM:** LangChain, LangGraph, Langsmith, Ollama, Hugging Face, RAG, MCP, Vapi, ElevenLabs, Recall.ai
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-148&show_icons=true&locale=en" alt="ayush-148" /></p>
+**Backend:** Node.js, Express, FastAPI, Flask, gRPC, PostgreSQL, MongoDB, MySQL, Redis, Kafka, RabbitMQ
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-148&" alt="ayush-148" /></p>
+**Frontend:** React, Next.js, Tailwind, Redux, Jest/RTL
+
+**Cloud & Infra:** AWS (EC2, S3, ELB, Lambda), Docker, GitHub Actions
+
+## Competitive programming
+
+- **LeetCode Knight** — 1900+ rating, 750+ problems solved
+- **Global rank 323** — LeetCode Biweekly Contest 135
+
+## Links
+
+- [Portfolio](https://ayush-negi-portfolio.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/ayush-negi-300209257/)
+- [LeetCode](https://www.leetcode.com/ayyush_007)
+- [Medium](https://medium.com/@ayushpro111)
+
+---
+
+*Building systems that survive production, not just demos.*
