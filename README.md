@@ -2,14 +2,11 @@
 
 Backend & AI engineer. Recent IT graduate from ABV-IIIT Gwalior.
 
-Previously interned at **CoinSwitch** (India's largest crypto platform), building distributed backend services for their F&O trading exchange and security infrastructure. Before that, built real-time conversation intelligence at **Profimatix.AI**.
-
 ## What I work on
 
 - **Backend & distributed systems** — built 4+ production services handling trade movement, liquidity, and ledger entries at CoinSwitch
 - **AI agent infrastructure** — contributed to a production MCP gateway giving LLM agents secure access to internal tools (Grafana, OpenSearch, Bitbucket) via OAuth 2.1 & SAML
 - **RAG systems & LLM evaluation** — built a [self-healing RAG](https://github.com/AYUSH-148/self-healing-rag) agent that reduced hallucination rate from 5.9% → 0.0% with a deterministic eval pipeline and CI gate
-- **Voice AI** — built with Vapi, ElevenLabs (Flash v2.5, multilingual_v2), and Recall.ai
 
 ## Featured projects
 
