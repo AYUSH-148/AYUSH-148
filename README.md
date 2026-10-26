@@ -1,6 +1,6 @@
 # Ayush Negi
 
-Backend & AI engineer. Recent IT graduate from ABV-IIIT Gwalior.
+SE @Simforge, Ex- Coinswitch, AIBackend & AI engineer. Recent IT graduate from ABV-IIIT Gwalior.
 
 ## What I work on
 
